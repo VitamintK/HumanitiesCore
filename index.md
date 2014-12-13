@@ -1,8 +1,7 @@
 ---
 layout: page
 title: Kevin Wang's Humanities Core War Blog!
-tagline:   
-Let's learn about the worst part of humanity together!
+tagline:   Let's learn about the worst part of humanity together!
 ---
 {% include JB/setup %}
 
@@ -23,6 +22,19 @@ And war can also teach about how people decide what to do.  People choose what t
 
 
 
-##
+## Who was Homer?  
+
+Was there really a Homer?
+
+For my Humanities Core class, I’ve been reading The Iliad.  In the first lecture, my professor touched upon the history and origins of the Iliad.  
+
+In class, we discussed the historicity of the Trojan War described in the Iliad, and the factual accuracy of the epic (conclusion: it’s debatable, but it seems as if there was really a Trojan War).
+However, one of the issues raised that really piqued my interest was the identity of Homer.  Professor Izenberg did not delve deeply into the question, although he did mention that Homer may or may not have been a real person, so I researched Homer on my own.  As it turns out, the identity of Homer is a well-established field of research, with its own Wikipedia article and everything.  The field is dubbed “The Homeric Question” and it concerns the existence of Homer, the identity of Homer, and the authorship of the epics.
+
+Whether or not Homer existed isn’t a question that has been decidedly answered by anyone.  However, the name Homer is widely accepted as representing a manifestation of the ancient Greek oral tradition.  What this means is: although the works are attributed to Homer, an individual, the stories told in the epics are not the effort of a single man, but instead the result of centuries of oral storytelling passed down through generations.
+
+This fact has an impact on how I think of the Iliad now.  Instead of attributing choices to one individual, I realized that each part of the Iliad has been touched upon and modified by hundreds of oral bards telling the story.
 
 
+
+## 

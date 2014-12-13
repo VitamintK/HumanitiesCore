@@ -63,7 +63,7 @@ Another interesting primary source from the time is paintings that were made of 
 
 <img src="images/The_Hanging_by_Jacques_Callot.jpg" alt="The miseries of war; No. 11, The Hanging" style="width: 400px;"/>
 
-* The miseries of war; No. 11, "The Hanging"*
+*The miseries of war; No. 11, "The Hanging"*
 
 
 

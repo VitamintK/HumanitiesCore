@@ -6,11 +6,13 @@ tagline:  Let's learn about the worst part of humanity together!
 {% include JB/setup %}
 
 
-#Kevin Wang
-#Fall 2014
+###Kevin Wang
+###Fall 2014
 
 
 ## Introduction
+
+
 
 Hi, I'm Kevin!  I'm currently a first-year student at UC Irvine taking a course called the Humanities Core.  In essence, this class involves delving into the humanities - reading literature, learning history, theater, art, culture - and reflecting on a theme.  This blog will contain questions and answers about the theme and what I learn and want to learn about it from the material we read.  This year, the theme is war.  
 

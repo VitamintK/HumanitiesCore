@@ -62,6 +62,7 @@ Another interesting primary source from the time is paintings that were made of 
 
 
 <img src="images/The_Hanging_by_Jacques_Callot.jpg" alt="The miseries of war; No. 11, The Hanging" style="width: 400px;"/>
+
 * The miseries of war; No. 11, "The Hanging"*
 
 
@@ -69,6 +70,7 @@ Another interesting primary source from the time is paintings that were made of 
 I also researched the current day’s perception of the Thirty Years’ War in the same areas to see if there had been a shift in perception in the centuries since.  
 
 <img src="images/Batalla_de_rocroi_por_Augusto_Ferrer-Dalmau.jpg" alt="Batalla de Rocroi (1643) by Augusto Ferrer-Dalmau (2013)" style="width: 400px;"/>
+
 *Batalla de Rocroi (1643) by Augusto Ferrer-Dalmau (2013)*
 
 The war is still largely seen as one composed of bloodshed and terror.  This is due to the large amount of literature that was written during wartime, such as the primary sources I looked at above, and also the secondary works of fiction derived from those, such as Brecht’s Mother Courage, which make the war out to be a cold, cruel event.  

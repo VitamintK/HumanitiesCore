@@ -1,19 +1,13 @@
 ---
 layout: page
 title: Kevin Wang's Humanities Core War Blog!
-tagline: Let's learn about the worst part of humanity together!
+tagline:   
+Let's learn about the worst part of humanity together!
 ---
 {% include JB/setup %}
 
 
-    
-## Contents
 
-<ul class="posts">
-  {% for post in site.posts %}
-    <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a></li>
-  {% endfor %}
-</ul>
 
 ## Introduction
 

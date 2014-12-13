@@ -7,12 +7,12 @@ tagline:  Let's learn about the worst part of humanity together!
 
 
 ###Kevin Wang
-###Fall 2014
+Fall 2014###
 
 
 ## Introduction
 
-
+#### October 10, 2014
 
 Hi, I'm Kevin!  I'm currently a first-year student at UC Irvine taking a course called the Humanities Core.  In essence, this class involves delving into the humanities - reading literature, learning history, theater, art, culture - and reflecting on a theme.  This blog will contain questions and answers about the theme and what I learn and want to learn about it from the material we read.  This year, the theme is war.  
 
@@ -24,9 +24,11 @@ War teaches basic human desires.  War is caused by humans who want power, resour
 From war, we can also learn lessons are human fears.  From the Iliad, we can see that soldiers are motivated by wealth, spoils of war, and glory.  More than that, they are afraid of shame, and relentlessly flee from it by diving into battle.
 And war can also teach about how people decide what to do.  People choose what to do based on the culture that surrounds them.  Throughout history, cultures have had varying values that would seem ridiculous by any other culture's values.  But in each culture, all values seem normal, and falling in line with the orders is nothing but compliance.  War is also in part a product of the herd mentality.  If each person evaluated war and their role in it in a non-warring culture, the fighting and ultimate self-sacrifice would seem laughable.  However, inside a culture of war and following orders, soldiers see war as normal and there seems to be no other realistic option besides obedience. 
 
-
+***
 
 ## Who was Homer?  
+
+#### October 17, 2014
 
 Was there really a Homer?
 
@@ -39,9 +41,11 @@ Whether or not Homer existed isn’t a question that has been decidedly answered
 
 This fact has an impact on how I think of the Iliad now.  Instead of attributing choices to one individual, I realized that each part of the Iliad has been touched upon and modified by hundreds of oral bards telling the story.
 
-
+***
 
 ## What's the perception of the Thirty Years' War?
+
+#### November 5, 2014
 
 We've been reading literature pertinent to the Thirty Years' War in class lately, including the play Mother Courage (and modern performances of it) along with historical first-hand accounts.
 
@@ -67,8 +71,11 @@ The war is still largely seen as one composed of bloodshed and terror.  This is 
 However, today the war is perceived in a few key ways that it wasn’t seen as in the 17th century.  Most noticeably, the war’s long-lasting political effects are appreciated now.  The Thirty Years’ War permanently changed the structure of nations in Europe immediately, and in everywhere not long after.  The residents of the 1600s who were directly involved in the bloodshed obviously couldn’t appreciate the effects that the war would have for hundreds of years, but today people see the ending of centralized ruling and the fragmentation of the European power structure, in addition to the bloody, cruel mess of the war.
 
 
+***
 
 ## Mother Courage is Epic Theater
+
+#### November 10, 2014
 
 Mother Courage and her Children is a play written by Bertolt Brecht, in the epic theatre genre.  It details the journey of a woman travelling through the battlefields of the Thirty Years’ War with her children, profiting from the war, and losing her children to it.  
 The attributes of a play of epic theatre emphasize the Verfremdungseffekt (distancing effect), which serve to remind the audience at all times that they are watching a play.  This is so that they do not develop an emotional attachment along with the play, which would result in emotional catharsis and not intellectual inspection during and after the conclusion of the play.  The latter is what Brecht aimed for in his play.  He wanted audience members to think about what Mother Courage says about society and war and how individual and collective action play roles in war, and how that can be changed.  
@@ -86,7 +93,11 @@ Out of context, this could totally be a comedy.  But of course, it’s not, and 
 
 
 
+***
+
 ## The Prince: Sincere or Satire?
+
+#### November 24, 2014
 
 We all know Machiavelli.  Writer of The Prince.  Synonymous with tyranny and selfish power-thirst.  Corrupt, evil, immoral.
 The Prince emphasizes the values of glory for tyrants over the well-being of their subjects.  But Machiavelli mean to advocate these actions sincerely, or was The Prince actually a backhanded satire meant to expose the evils of tyranny and principalities?
@@ -97,4 +108,6 @@ As the author of a book that recommends such tyranny and corruptness, Machiavell
 Machiavelli actually grew up in Florence when it was a republic.  He also served as an official in Florence during the time when it was a republic.  Hence, it’s reasonable to assume that he agreed with the principles of republics.  Diderot and Rousseau both judged The Prince to have been written as a satire.  Rousseau wrote: “Machiavelli was a proper man and a good citizen; but, being attached to the court of the Medici, he could not help veiling his love of liberty in the midst of his country's oppression. The choice of his detestable hero, Caesar Borgia, clearly enough shows his hidden aim; and the contradiction between the teaching of the Prince and that of the Discourses on Livy and the History of Florence shows that this profound political thinker has so far been studied only by superficial or corrupt readers. The Court of Rome sternly prohibited his book. I can well believe it; for it is that Court it most clearly portrays.”
 The Prince is never farcical enough for anyone to definitely prove that it was written as a satire, so we may very well never know what Machiavelli intended it to be.  But based on the content of the book, as well as Machiavelli’s background in Florence, it’s a pretty good guess that The Prince was meant to ridicule - not instruct - the princes of his time.
 
+
+***
 

@@ -112,3 +112,13 @@ The Prince is never farcical enough for anyone to definitely prove that it was w
 
 ***
 
+## Last Post
+
+#### December 12, 2014
+
+This is my last post on this blog - for Fall Quarter, at least.  Over the course of the last 10 weeks my understanding of war has grown enormously.  The philosophy, the debates about individual and collective agency in war, the justification of wars, action in wars - these are all things that I’d never thought of before the quarter which I am now wholly aware of.  
+It’s interesting how 10 weeks and some books morphed my mental model of war.
+Beginning the class, I remember my concept of war was very basic: two or more forces in conflict with each other.  That was all that I thought about war.  I had never given any thought to the causes of war, or how they related to humanities.  I’d never heard of ius in bello or ius ad bellum.
+Now that I’m basically done with this quarter, I can see why the course instructors chose war as the theme for this overarching humanities class.  The amount of material that exists about this topic in the humanities is probably larger than any other explorable topic.  I’d never before realized how uniquely ubiquitous war is in humanity.
+Learning about war this quarter hasn’t really answered any questions that I had before I started thinking about these topics.  Rather, it’s made me admire the complexity that exists in war, and forced me to think about a whole new slew of issues, like the passage of history through oral tradition, the perception of war over time, and the influence of individual and collective agency in war.  
+Studying humanities by using war was the perfect vector for learning about the humanities in general due to the wide reach of war in humanity.  Likewise, using humanity to study war was the perfect window into war itself, and looking back, I’m glad that I spent this quarter learning about one of the most complex and universal human things.  Onward to winter!

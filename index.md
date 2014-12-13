@@ -1,11 +1,13 @@
 ---
 layout: page
-title: Kevin Wang's Humanities Core War Blog!
-tagline:   Let's learn about the worst part of humanity together!
+title: Kevin's Humanities Core War Blog!
+tagline:  Let's learn about the worst part of humanity together!
 ---
 {% include JB/setup %}
 
 
+#Kevin Wang
+#Fall 2014
 
 
 ## Introduction
@@ -82,4 +84,15 @@ Out of context, this could totally be a comedy.  But of course, it’s not, and 
 
 
 
-##
+## The Prince: Sincere or Satire?
+
+We all know Machiavelli.  Writer of The Prince.  Synonymous with tyranny and selfish power-thirst.  Corrupt, evil, immoral.
+The Prince emphasizes the values of glory for tyrants over the well-being of their subjects.  But Machiavelli mean to advocate these actions sincerely, or was The Prince actually a backhanded satire meant to expose the evils of tyranny and principalities?
+
+Machiavelli wrote The Prince in the form of a sort of self-help guide to instruct princes on how to rule their principalities.  In it, Machiavelli recommended many unethical means to selfish ends in an absolutely unempathetic style.  This stoich cruel and discompassionate writing style was so starkly cynical and evil that this style of power-hungry tunnelvision is known as Machiavellian.  
+For example, The Prince recommended tyranny for princes. and advocate the thirst for power at the expense of the common people.  He advocates cruel and forceful action against people as means to gain and hold power.  Even when The Prince recommends moral actions for rulers, such as not stealing the property of their subjects, the reasons are always to keep power, not because of any code of ethics.  
+As the author of a book that recommends such tyranny and corruptness, Machiavelli seems deserved of his title as cunning and deceitful.  However, literary scholars have recently raised an opposing thesis: that Machiavelli was in fact an opponent of tyranny and the corrupt tactics used by princes, and instead, favored republics.  This theory hypothesizes that Machiavelli wrote The Prince, not as an earnest guidebook for princes, but as a satire on the unscrupulous methods employed by princes of the time.
+Machiavelli actually grew up in Florence when it was a republic.  He also served as an official in Florence during the time when it was a republic.  Hence, it’s reasonable to assume that he agreed with the principles of republics.  Diderot and Rousseau both judged The Prince to have been written as a satire.  Rousseau wrote: “Machiavelli was a proper man and a good citizen; but, being attached to the court of the Medici, he could not help veiling his love of liberty in the midst of his country's oppression. The choice of his detestable hero, Caesar Borgia, clearly enough shows his hidden aim; and the contradiction between the teaching of the Prince and that of the Discourses on Livy and the History of Florence shows that this profound political thinker has so far been studied only by superficial or corrupt readers. The Court of Rome sternly prohibited his book. I can well believe it; for it is that Court it most clearly portrays.”
+The Prince is never farcical enough for anyone to definitely prove that it was written as a satire, so we may very well never know what Machiavelli intended it to be.  But based on the content of the book, as well as Machiavelli’s background in Florence, it’s a pretty good guess that The Prince was meant to ridicule - not instruct - the princes of his time.
+
+

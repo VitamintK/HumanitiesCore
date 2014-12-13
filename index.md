@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Welcome to Humanities Core!
-tagline: War
+title: Kevin Wang's Humanities Core War Blog!
+tagline: Let's learn about the worst part of humanity together!
 ---
 {% include JB/setup %}
 

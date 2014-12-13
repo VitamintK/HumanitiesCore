@@ -11,7 +11,7 @@ tagline:  Let's learn about the worst part of humanity together!
 Fall 2014
 
 
-## Introduction
+## Introduction and Mission
 
 #### October 10, 2014
 

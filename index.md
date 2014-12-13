@@ -37,4 +37,49 @@ This fact has an impact on how I think of the Iliad now.  Instead of attributing
 
 
 
-## 
+## What's the perception of the Thirty Years' War?
+
+We've been reading literature pertinent to the Thirty Years' War in class lately, including the play Mother Courage (and modern performances of it) along with historical first-hand accounts.
+
+As an American that previously knew basically nothing about the Thirty Years' War (other than its length), this made me wonder how the Thirty Years’ War is remembered today by the inhabitants of the involved areas and how it's changed since the 17th century.
+
+My hypothesis when starting to research this was that the perception of the Thirty Years’ War in people’s minds was sure to have changed in some ways over the 300-plus years since its occurrence.
+
+Although we in America are barely cognizant of the existence of the Thirty Years’ War, it had a huge and lasting impact on Europe and especially Germany.  It wracked the German states for 30 years, and killed 25% to 40% of the population.  As such, it must have made a deep impression on the citizens of Europe at the time.  
+
+From von Guericke’s description of the Sack of Magdeburg, the war was a calamity for the inhabitants of Germanic states: the people of Magdeburg were robbed, beaten, massacred, and raped during the mass murder.  It was a time where people viewed others as horrible, evil, and greedy.  Grimmelshausen portrayed people as all inherently evil, in a view very much in line with the philosophy of Hobbes (who lived in the same time period).  Grimmelshausen especially represented the perpetrators of the war (the ruling class) as inherently selfish and wicked, which caused the ordinary citizens an immense amount of suffering through war.
+
+Another interesting primary source from the time is paintings that were made of the war.  However, paintings that I found of the Thirty Years’ War are nearly all military and stoic in nature.  They try to accurately represent the military battles that occurred, and therefore most artists did not inject their own viewpoints and thoughts of the war into the paintings.  Still, I can glean information about the perception of the war through the paintings.  Nearly every piece of art about the war contains depictions of bloodshed, death, and fleeing.  Again, this is an a result of the people at the time perceiving the war as being perpetrated by bloodthirsty, cruel attackers.
+
+The capture of Maastricht in 1579 by Alexander Farnese, duke of Parma
+
+
+
+I also researched the current day’s perception of the Thirty Years’ War in the same areas to see if there had been a shift in perception in the centuries since.  
+
+Batalla de Rocroi (1643) by Augusto Ferrer-Dalmau (2013)
+
+The war is still largely seen as one composed of bloodshed and terror.  This is due to the large amount of literature that was written during wartime, such as the primary sources I looked at above, and also the secondary works of fiction derived from those, such as Brecht’s Mother Courage, which make the war out to be a cold, cruel event.  
+However, today the war is perceived in a few key ways that it wasn’t seen as in the 17th century.  Most noticeably, the war’s long-lasting political effects are appreciated now.  The Thirty Years’ War permanently changed the structure of nations in Europe immediately, and in everywhere not long after.  The residents of the 1600s who were directly involved in the bloodshed obviously couldn’t appreciate the effects that the war would have for hundreds of years, but today people see the ending of centralized ruling and the fragmentation of the European power structure, in addition to the bloody, cruel mess of the war.
+
+
+
+## Mother Courage is Epic Theater
+
+Mother Courage and her Children is a play written by Bertolt Brecht, in the epic theatre genre.  It details the journey of a woman travelling through the battlefields of the Thirty Years’ War with her children, profiting from the war, and losing her children to it.  
+The attributes of a play of epic theatre emphasize the Verfremdungseffekt (distancing effect), which serve to remind the audience at all times that they are watching a play.  This is so that they do not develop an emotional attachment along with the play, which would result in emotional catharsis and not intellectual inspection during and after the conclusion of the play.  The latter is what Brecht aimed for in his play.  He wanted audience members to think about what Mother Courage says about society and war and how individual and collective action play roles in war, and how that can be changed.  
+
+Scene Eleven is an excellent example of why Mother Courage is a play in the genre of epic theatre.  In it, we find that Mother Courage has gone into the town to “hunt for bargains”, leaving her daughter alone in a farmhouse.  The imperial army passes by the house to massacre the town (which is Protestant).  Kattrin decides to warn the town by banging a drum.  Because of this, she is shot and killed.  
+
+The scene embodies the epic theatre genre in a few ways.  First, Brecht utilized humor throughout the grim and tense scene to interrupt the immersion of the audience.  Before the audience can start to be drawn into the scene, Brecht interrupts them with lines like “but we can pray to God and maybe because you’re a cripple He’ll listen better” to remind them that they are watching a play - to remind them that this is a play - a medium of expression, not entertainment.  
+Brecht also sprinkles humor throughout the section of the scene where the soldiers attempt to get Kattrin to stop banging the drum and descend from the roof.  What would otherwise be an incredibly tense scene of suspense is changed into an almost comical comedy of errors.  For example, after a soldier unsuccessfully tried to convince Kattrin to come down from the roof, the Lieutenant spits out this gem: 
+Lieutenant: You don’t believe him, you aren’t stupid, you know we’re not friends and anyway, who’d trust someone with a face like his?  But will you believe me if I give you my word as an officer of His Majesty the Emperor’s army?  My sacred word?
+
+Kattrin drums harder.
+Out of context, this could totally be a comedy.  But of course, it’s not, and Brecht simply uses these interruptions to make the audience feel less attached to the play.
+
+  Another aspect of the play that Brecht utilized for epic theatre is blatant unrealism.  What he does to detach the audience from the play is to incorporate obviously unreal elements to remind the audience that they are watching a play.  In this scene, Brecht actually does this mostly by portraying the soldiers as highly incapable, which I mentioned above as an example of humor: They are painted as so incompetent that they become Three-Stooges-comical.  One example of this unrealism that isn’t comedy is when the soldiers attempt to drown out the sound of drumming with the sound of “a normal noise”, “a peacetime sound” - “wood chopping!” and Kattrin, along with the audience, laughs at their attempts.  Unlike an actual girl on the brink of absolutely sure death, she laughs at the humor of the soldiers’ incompetence, reminding the audience, again, that they are watching a play put on my actors and written by a playwright.
+
+
+
+##

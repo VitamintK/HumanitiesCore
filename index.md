@@ -60,13 +60,17 @@ From von Guericke’s description of the Sack of Magdeburg, the war was a calami
 
 Another interesting primary source from the time is paintings that were made of the war.  However, paintings that I found of the Thirty Years’ War are nearly all military and stoic in nature.  They try to accurately represent the military battles that occurred, and therefore most artists did not inject their own viewpoints and thoughts of the war into the paintings.  Still, I can glean information about the perception of the war through the paintings.  Nearly every piece of art about the war contains depictions of bloodshed, death, and fleeing.  Again, this is an a result of the people at the time perceiving the war as being perpetrated by bloodthirsty, cruel attackers.
 
-The capture of Maastricht in 1579 by Alexander Farnese, duke of Parma
+
+![The miseries of war; No. 11, "The Hanging"](images/The_Hanging_by_Jacques_Callot.jpg)
+* The miseries of war; No. 11, "The Hanging"*
 
 
 
 I also researched the current day’s perception of the Thirty Years’ War in the same areas to see if there had been a shift in perception in the centuries since.  
 
-Batalla de Rocroi (1643) by Augusto Ferrer-Dalmau (2013)
+
+![Batalla de Rocroi (1643) by Augusto Ferrer-Dalmau (2013)](images/Batalla_de_rocroi_por_Augusto_Ferrer-Dalmau.jpg)
+*Batalla de Rocroi (1643) by Augusto Ferrer-Dalmau (2013)*
 
 The war is still largely seen as one composed of bloodshed and terror.  This is due to the large amount of literature that was written during wartime, such as the primary sources I looked at above, and also the secondary works of fiction derived from those, such as Brecht’s Mother Courage, which make the war out to be a cold, cruel event.  
 However, today the war is perceived in a few key ways that it wasn’t seen as in the 17th century.  Most noticeably, the war’s long-lasting political effects are appreciated now.  The Thirty Years’ War permanently changed the structure of nations in Europe immediately, and in everywhere not long after.  The residents of the 1600s who were directly involved in the bloodshed obviously couldn’t appreciate the effects that the war would have for hundreds of years, but today people see the ending of centralized ruling and the fragmentation of the European power structure, in addition to the bloody, cruel mess of the war.

@@ -6,9 +6,9 @@ tagline:  Let's learn about the worst part of humanity together!
 {% include JB/setup %}
 
 
-->Kevin Wang<-
+###Kevin Wang<-
 
-###->Fall 2014<-
+####->Fall 2014<-
 
 
 ## Introduction

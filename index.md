@@ -132,7 +132,7 @@ Studying humanities by using war was the perfect vector for learning about the h
 
 ##I'M back
 
-#### January 11, 2015
+#### January 8, 2015
 
 It’s 2015!  Welcome back to more Humanities Core  for the winter quarter!  We’ve recently been discussing Frederick Douglass’s slave narrative in this course.  One specific point that was brought up in the lectures and discussions was the purpose and use of Frederick Douglass’s book as propaganda.  That is, not to say that “Narrative of the Life of Frederick Douglass, an American Slave” contained falsehoods or promoted some evil agenda, but simply to say that the book was written to promote an agenda.  In this case, the cause was the cause of abolitionism.  Frederick Douglass appealed to his audience to gain support for the antislavery movement.
 What this reminded me of was a recent segment on the talk show “Last Week Tonight with John Oliver”.

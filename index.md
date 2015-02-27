@@ -128,6 +128,13 @@ Now that I’m basically done with this quarter, I can see why the course instru
 Learning about war this quarter hasn’t really answered any questions that I had before I started thinking about these topics.  Rather, it’s made me admire the complexity that exists in war, and forced me to think about a whole new slew of issues, like the passage of history through oral tradition, the perception of war over time, and the influence of individual and collective agency in war.  
 Studying humanities by using war was the perfect vector for learning about the humanities in general due to the wide reach of war in humanity.  Likewise, using humanity to study war was the perfect window into war itself, and looking back, I’m glad that I spent this quarter learning about one of the most complex and universal human things.  Onward to winter!
 
+***
+
+## Winter
+
+#### January 8, 2014
+
+For class recently, I've been reading the Narrative of Fredrick Douglas.  The point is that it's to further a cause: the cause of antislavery.  
 
 ***
 

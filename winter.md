@@ -144,6 +144,35 @@ Similar to the way that Frederick Douglass told a specific narrative about an in
 
 ***
 
+##Winslow Homer: American Painter
+
+#### January 20, 2015
+
+The most prominent assignment this quarter in Humanities Core is an essay that I have to write.  The essay assignment is to write about an image that relates to the American Civil War, and explain what it shows about the Civil War and the perception of the Civil War.  To pitch us students the essay prompt, the lecturing professor showed slides of various images produced during the Civil War.  I don’t really believe in love at first sight, but there were definitely a few paintings in that slideshow that really jumped out at me in their beauty.  They were paintings by Winslow Homer, who I previously hadn’t heard of.  
+
+<a href="http://hcc.humanities.uci.edu/humcore/Student/Winter2015/assignment-prompts/Essay%20Assignment%203--Historical%20Analysis.html
+"><img src="images/civilwarassignment.png" alt="The essay prompt" style="width: 400px"/></a>
+
+*the essay prompt*
+
+I wrote my essay about a Winslow Homer painting (The Cotton Pickers), but that essay was about the Civil War.  This blog post is about the art.
+
+Honestly, just like most art, I don’t think I can adequately explain why I took such a strong fancy towards Winslow Homer’s paintings, but there’s definitely something unique about their style that I just find beautiful.  I’m going to try to explain anyways.
+
+Winslow Homer’s paintings really exemplify American culture to me.  From Mark Twain to Emily Dickinson to Norman Rockwell, artists classified as “American” focus their lenses on the ordinary person - the American.  Homer’s paintings about the Civil War do exactly that.  He paints paintings that are full of strife and the conflict of the Civil War, yet they all convey some kind of peace and serenity to me.
+
+| <img src="640px-Winslow_Homer_004.jpg" style="width: 400px"/> |  <img src="images/a_visit.jpg" style="width:400px"/>|
+| :-------------: |:-------------:|
+|*The Gulf Stream - 1899* | *A Visit from the Old Mistress - 1876* |
+
+Homer painted in a realistic style: his paintings look true-to-life.  However, his paintings were also more than just realistic.  Each of his paintings manages to also evoke additional meaning.  Each painting seems to be so free of anything other than the raw reality of his subjects, but there is so obviously more than that.
+
+<img src="images/cottonpickers.jpg" style="width: 500px"/>
+
+*The Cotton Pickers - 1864*
+
+For example: The Cotton Pickers.  The Cotton Pickers, especially, looked beautiful to me.  The beautiful, realistic representation of African Americans stood out amongst the various racist caricatures in the slideshow.  The golden sheen and the artistic landscape jumped out in terms of aesthetics.  Additionally, I appreciated the depth of analysis that I could put into the artwork to write about for my class.  It’s a realistic painting.  It looks similar to what a photograph would show.  Yet the artwork conveys to me, the viewer, so much more than just the accurate representation of reality.  I can see the uncertainty on the women’s faces.  I can see the golden hue masking the entire work.  I can feel a feeling of serenity from the endless field of cotton, and also impending unease from the cotton pickers.  
+I’m sorry if this post seemed a bit incoherent.  I did my best to explain what it is about Homer’s paintings that I loved, which was hard because I can’t quite put my finger on it myself.  In essence, I would say that the unique quality that evokes my appreciation is defined by Homer’s ability to paint realistic scenes, but still convey ideas and messages to the viewer’s mind through the painting.
 
 
 ***

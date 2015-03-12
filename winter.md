@@ -179,6 +179,14 @@ Homer painted in a realistic style: his paintings look true-to-life.  However, h
 For example: The Cotton Pickers.  The Cotton Pickers, especially, looked beautiful to me.  The beautiful, realistic representation of African Americans stood out amongst the various racist caricatures in the slideshow.  The golden sheen and the artistic landscape jumped out in terms of aesthetics.  Additionally, I appreciated the depth of analysis that I could put into the artwork to write about for my class.  It’s a realistic painting.  It looks similar to what a photograph would show.  Yet the artwork conveys to me, the viewer, so much more than just the accurate representation of reality.  I can see the uncertainty on the women’s faces.  I can see the golden hue masking the entire work.  I can feel a feeling of serenity from the endless field of cotton, and also impending unease from the cotton pickers.  
 I’m sorry if this post seemed a bit incoherent.  I did my best to explain what it is about Homer’s paintings that I loved, which was hard because I can’t quite put my finger on it myself.  In essence, I would say that the unique quality that evokes my appreciation is defined by Homer’s ability to paint realistic scenes, but still convey ideas and messages to the viewer’s mind through the painting.
 
+***
+
+##
+
+####
+
+
+
 
 ***
 

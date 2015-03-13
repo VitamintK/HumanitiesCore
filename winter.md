@@ -142,17 +142,19 @@ Studying humanities by using war was the perfect vector for learning about the h
 It’s 2015!  Welcome back to more Humanities Core  for the winter quarter!  We’ve recently been discussing Frederick Douglass’s slave narrative in this course.  One specific point that was brought up in the lectures and discussions was the purpose and use of Frederick Douglass’s book as propaganda.  That is, not to say that “Narrative of the Life of Frederick Douglass, an American Slave” contained falsehoods or promoted some evil agenda, but simply to say that the book was written to promote an agenda.  In this case, the cause was the cause of abolitionism.  Frederick Douglass appealed to his audience to gain support for the antislavery movement.
 What this reminded me of was a recent segment on the talk show “Last Week Tonight with John Oliver”.
 
-| <iframe width="560" height="315" src="https://www.youtube.com/embed/QplQL5eAxlY" frameborder="0" allowfullscreen></iframe> | test |
-| :------: | |
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QplQL5eAxlY" frameborder="0" allowfullscreen></iframe>
 
 In this segment, John Oliver casts light on the process of emigrating refugees from Afghanistan and Iraq, specifically American-allied translators, to America.  John Oliver (in a technique probably learned from his forebear Jon Stewart) gathers support from his audience by pointing out the absurdity of the situation - civilians in Afghanistan and Iraq were recruited by the American military to risk their lives and their families’ lives to help America further its goals, but the American government will not grant them visas for them to escape certain death from the Taliban in their home countries.  
 Similar to the way that Frederick Douglass told a specific narrative about an individual (his own) to highlight resonating emotional stories, John Oliver told the story of Mohammad, a translator who, because of his translation job, had his father killed by the Taliban, and his son kidnapped.  The visa paperwork process took over 3 years, during which Mohammad could not leave or evacuate his family.  The extreme emotional empathy that everyone feels upon hearing this story is utilized by Oliver to evoke anger at the United States government for causing his pain to happen.  This usage of pathos parallels Douglass’s slave narrative to gain support for their respective causes.
 
 ***
 
+
+***
+
 ##Winslow Homer: American Painter
 
-#### January 15, 2015
+#### February 3, 2015
 
 The most prominent assignment this quarter in Humanities Core is an essay that I have to write.  The essay assignment is to write about an image that relates to the American Civil War, and explain what it shows about the Civil War and the perception of the Civil War.  To pitch us students the essay prompt, the lecturing professor showed slides of various images produced during the Civil War.  I don’t really believe in love at first sight, but there were definitely a few paintings in that slideshow that really jumped out at me in their beauty.  They were paintings by Winslow Homer, who I previously hadn’t heard of.  
 

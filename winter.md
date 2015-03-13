@@ -173,8 +173,7 @@ In a recent lecture, I learned about a subject that I didn't have much experienc
 
 The most prominent assignment this quarter in Humanities Core is an essay that I have to write.  The essay assignment is to write about an image that relates to the American Civil War, and explain what it shows about the Civil War and the perception of the Civil War.  To pitch us students the essay prompt, the lecturing professor showed slides of various images produced during the Civil War.  I don’t really believe in love at first sight, but there were definitely a few paintings in that slideshow that really jumped out at me in their beauty.  They were paintings by Winslow Homer, who I previously hadn’t heard of.  
 
-| <a href="http://hcc.humanities.uci.edu/humcore/Student/Winter2015/assignment-prompts/Essay%20Assignment%203--Historical%20Analysis.html
-" class="imuge"><img src="images/civilwarassignment.png" alt="The essay prompt" style="width: 400px"/></a> |
+| <a href="http://hcc.humanities.uci.edu/humcore/Student/Winter2015/assignment-prompts/Essay%20Assignment%203--Historical%20Analysis.html" class="imuge"><img src="images/civilwarassignment.png" alt="The essay prompt" style="width: 400px"/></a> |
 | :----: |
 |*the essay prompt*|
 

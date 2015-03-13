@@ -246,7 +246,7 @@ Of course, popular opinion eventually found McCarthy's attacks flawed and basele
 
 ***
 
-| <img src="images/flag.jpg" style="width:450"/> |
+| <img src="images/flag.jpg" style="width:450px"/> |
 | :----:|
 |The author.|
 

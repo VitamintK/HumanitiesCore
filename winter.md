@@ -11,13 +11,13 @@ tagline:  Let's learn about the worst part of humanity together!
 	}
 </style>
 
-<a href="#fall" style="color: #6E352C"> Go to Fall </a>
+<a href="#fall" style="color: #6E352C text-align:center font-size:2em"> Go to Fall </a>
 
-<a href="#winter" style="color:navy"> Go to Winter </a>
+<a href="#winter" style="color:navy text-align:center font-size:2em"> Go to Winter </a>
 
 ###Kevin Wang
 
-Fall 2014
+<a name="fall"> <span style="color:#6E352C"> Fall 2014</span></a>
 
 
 ## Introduction and Mission

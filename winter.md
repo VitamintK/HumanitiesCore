@@ -6,8 +6,8 @@ tagline:  Let's learn about the worst part of humanity together!
 {% include JB/setup %}
 
 <style>
-	body{
-		margin-right: 100px;
+	.container{
+		margin-right: 200px;
 	}
 	.imuge{
 		text-align: center;
@@ -165,8 +165,9 @@ Similar to the way that Frederick Douglass told a specific narrative about an in
 
 A recent Humanities Core lecture gave me a completely new perspective in a way that I hadn't thought about before: popular depiction of war.  OK, yes, I've definitely thought about the public depiction of war several million times this year because I'm in Humanities Core and the theme *is* war.  But I'd never realized that an entire population of people could have had an imageless representation of war.
 
-So in this lecture, Professor Alice Fahs discussed the fact that the Civil War was the first photographically documented war.  What this means is that before the Civil 
-In a recent lecture, I learned about a subject that I didn't have much experience with before: 
+So in this lecture, Professor Alice Fahs discussed the fact that the Civil War was the first photographically documented war.  What this means is that before the Civil War, normal people had never before seen the realities of war.  The best that war could be represented was through painting representations and through oral or literary stories.  Such depictions showed the romantic side of war: of war abstracted through things like victory, bravery, and strategy.
+
+However, the American Civil War, for the first time, was a war that took place with photography.  Before the war, 
 
 ***
 

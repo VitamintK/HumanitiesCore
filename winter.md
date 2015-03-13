@@ -11,9 +11,9 @@ tagline:  Let's learn about the worst part of humanity together!
 	}
 </style>
 
-<a href="#fall" style="color: #6E352C text-align:center font-size:2em"> Go to Fall </a>
+<a href="#fall" style="color: #6E352C;text-align:center;font-size:2em"> Go to Fall </a>
 
-<a href="#winter" style="color:navy text-align:center font-size:2em"> Go to Winter </a>
+<a href="#winter" style="color:navy;text-align:center;font-size:2em"> Go to Winter </a>
 
 ###Kevin Wang
 

@@ -7,7 +7,7 @@ tagline:  Let's learn about the worst part of humanity together!
 
 <style>
 	.container{
-		max-width: 500px;
+		max-width: 800px;
 	}
 	.imuge{
 		text-align: center;

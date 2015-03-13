@@ -6,6 +6,9 @@ tagline:  Let's learn about the worst part of humanity together!
 {% include JB/setup %}
 
 <style>
+	body{
+		margin-right: 100px;
+	}
 	.imuge{
 		text-align: center;
 	}

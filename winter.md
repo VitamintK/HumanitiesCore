@@ -11,6 +11,8 @@ tagline:  Let's learn about the worst part of humanity together!
 	}
 </style>
 
+
+
 ###Kevin Wang
 
 Fall 2014
@@ -135,6 +137,8 @@ Studying humanities by using war was the perfect vector for learning about the h
 
 ***
 
+<a name = "winter"></a>
+
 ##I'M back
 
 #### January 8, 2015
@@ -149,6 +153,14 @@ Similar to the way that Frederick Douglass told a specific narrative about an in
 
 ***
 
+##Pop War
+
+####January 15, 2015
+
+A recent Humanities Core lecture gave me a completely new perspective in a way that I hadn't thought about before: popular depiction of war.  OK, yes, I've definitely thought about the public depiction of war several million times this year because I'm in Humanities Core and the theme *is* war.  But I'd never realized that an entire population of people could have had an imageless representation of war.
+
+So in this lecture, Professor Alice Fahs discussed the fact that the Civil War was the first photographically documented war.  What this means is that before the Civil 
+In a recent lecture, I learned about a subject that I didn't have much experience with before: 
 
 ***
 

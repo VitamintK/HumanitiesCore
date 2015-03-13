@@ -167,7 +167,18 @@ A recent Humanities Core lecture gave me a completely new perspective in a way t
 
 So in this lecture, Professor Alice Fahs discussed the fact that the Civil War was the first photographically documented war.  What this means is that before the Civil War, normal people had never before seen the realities of war.  The best that war could be represented was through painting representations and through oral or literary stories.  Such depictions showed the romantic side of war: of war abstracted through things like victory, bravery, and strategy.
 
-However, the American Civil War, for the first time, was a war that took place with photography.  Before the war, 
+However, the American Civil War, for the first time, was a war that took place with photography.  At the start of the Civil War, the war was shown in popular media as a celebratory event: one which would be over quickly and result in a positive victory.  It was almost like a festive event!  
+
+However, when the war continued, different representations of the war soon appeared.  Most notably, photographs of the battlefields came through.  Cameras at the time required static scenes for long periods of exposure, so battlefields after the fighting had finished were the only possible subjects of photography.  
+
+| <img src="images/soldier.jpg" style: "width: 400px"/> |
+| :-----:|
+|*Petersburg, Va., April 1865 source: Wikimedia Commons*|
+
+These images were of the battlefields littered with dead bodies.  For the first time, people in America that weren't soldiers saw the effects of war - the REAL effects of war.  This sparked a movement that sought to find the real negative effects of war and portray them for the American public.  No longer did people sit and view war as an abstract concept, but instead they saw the death and pain that it inflicted.  Dickinson and Walt Whitman further introduced the pain and suffering of people from war into popular culture through poetry.  
+
+What really shifted my mind's paradigm of war was this idea that people did not always have a concept of the death and bodies that resulted from war.  As someone who grew up surrounded by visual media (television, newspapers, computers, textbook pictures), I've never experienced a shortage of war photography.  To realize that people, at one point, were deprived of the real suffering of war and instead viewed it as something that could be associated with happiness was something that I'd never considered, and it was interesting to think about the Civil War as the turning point in civilians' mental models of war.
+
 
 ***
 
@@ -179,7 +190,7 @@ The most prominent assignment this quarter in Humanities Core is an essay that I
 
 | <a href="http://hcc.humanities.uci.edu/humcore/Student/Winter2015/assignment-prompts/Essay%20Assignment%203--Historical%20Analysis.html" class="imuge"><img src="images/civilwarassignment.png" alt="The essay prompt" style="width: 400px"/></a> |
 | :----: |
-|*the essay prompt*|
+|*The Essay Prompt*|
 
 
 I wrote my essay about a Winslow Homer painting (The Cotton Pickers), but that essay was about the Civil War.  This blog post is about the art.
@@ -203,12 +214,35 @@ I’m sorry if this post seemed a bit incoherent.  I did my best to explain what
 
 ***
 
-##
+##Torture Op-Ed
 
-####
+####February 24, 2015
 
+Torture scenes are prevalent in every form of mass media.  Films, television series, games, and videos feature extended sequences of torture.  These scenes in pop culture  are often credited with desensitizing the American public with the concept of torture and thus decreasing popular protest against torture.  However, the culture producers who create scenes of torture in media are not conscious of the fact that their scenes cause these negative societal effects.  Their intention with these torture scenes are generally not to increase support for torture, but simply to entertain and gain viewership.  However, I’m writing today to argue that filmmakers and other content producers should be more conscious of the effects of their torture scenes, and because of this, they should manufacture fewer scenes of torture for pop culture.
 
+Why does torture exist as a repeated trope in mass media?  Why does it seem every film has scenes of torture and pain infliction?  To answer this question, I have to first think of why any films incorporate any scene of any kind.  Why are films even made?  Films exist for entertainment - as a way for people to escape from reality and to indulge in the extremes of human emotion: triumph, love, happiness, and pain.  More generally, films show things that are out of the ordinary: explosions, romance, genius, overcoming adversity.
 
+Torture, then, exists as something exciting and abnormal that audiences do not view in our everyday lives.  This is why filmmakers, for the most part, include scenes of torture in their films.  It stimulates a part of the brain that doesn’t usually get much action.  The mind empathizes with the extreme pain - in a way, causing audiences to experience some pain themselves.  The appeal is similar to that of roller coasters.
+
+Torture scenes, then, are put into movies to appeal to the audience and to increase the appeal of a movie by allowing the audience to experience something that they do not experience in everyday lives.  This goal - one of increasing the audience’s experience - is not innately evil.  Filmmakers probably do not think that they’re committing a social negative impact by including scenes of torture.  However, they are.  [Studies](http://scan.oxfordjournals.org/content/6/5/537) have concluded that ubiquitous scenes of violence and torture in media contribute to the desensitization that society feels against torture.  Americans have become so desensitized to torture that when the CIA revealed the full extent of the torture that they performed in the name of the United States, public outrage was limited.  Several members of Congress dismissed the report simply as being “politically motivated”.  
+
+In the face of the negative effects that filmmakers cause when they include scenes of torture in their works, I would like to conclude by asking them to think more consciously about the effects of these scenes when considering them.  Each scene of torture has a negative, desensitizing effect on the world, and so filmmakers should strive to create as few of them as possible.  Thank you for reading.
+
+***
+
+##Blog Post 5
+
+####March 6, 2015
+
+This is the last blog post of the winter quarter.  I would like to use this opportunity to speak about an event that took place today on our campus, and the startling yet hilarious (to me) similarities to a subject we've been studying tangentially in the Humanities Core course.
+
+The event was a piece of legislation passed yesterday by ASUCI, a student government on UCI campus.  The bill stated that no flags were allowed to be put up in the lobby of the ASUCI lobby.  The bill was designed to counteract one American flag that was put up and taken down repeatedly in this room.  This incident was just a minor piece of ASUCI drama about their lobby.  However, this issue has blown up quite quickly in the day since, and several top posts in the various UCI Facebook groups are regarding this issue.  In fact, the issue is even starting to spread to twitter and non-UCI students are taking part in the discussion as well.  What really tickles me is the various insults and insinuations that are cropping up among students.  
+
+The best one is the attack that those who supported this legislation are UNAMERICAN and UNPATRIOTIC and that they don't LOVE THEIR COUNTRY.  These attacks reminded me of someone who used them for great benefit before - someone by the name of MCCARTHY.  It almost seemed that these people were literally copying McCarthy's statements by attacking the patriotism of discussion participants and vehemently defending the exceptionalism of their nation and, by some logical leap, the un-take-down-ableness of its flag?  
+
+I couldn't believe that people really thought that the act of removing a flag could be representative of his/her views on the nation, but the logical gaps and holes in this brand of argument really only bring to mind Joe McCarthy for me.  
+
+Of course, popular opinion eventually found McCarthy's attacks flawed and baseless.  Hopefully the same wave of public rationalism soon washes across UCI, and cooler minds will prevail.  It is yet to be seen.
 
 ***
 

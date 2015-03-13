@@ -11,7 +11,9 @@ tagline:  Let's learn about the worst part of humanity together!
 	}
 </style>
 
+<a href="#fall" style="color: #6E352C"> Go to Fall </a>
 
+<a href="#winter" style="color:navy"> Go to Winter </a>
 
 ###Kevin Wang
 
@@ -137,7 +139,8 @@ Studying humanities by using war was the perfect vector for learning about the h
 
 ***
 
-<a name = "winter"></a>
+<a name = "winter"><span style="color:navy">Winter 2015</span></a>
+
 
 ##I'M back
 

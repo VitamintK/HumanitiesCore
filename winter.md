@@ -244,6 +244,8 @@ I couldn't believe that people really thought that the act of removing a flag co
 
 Of course, popular opinion eventually found McCarthy's attacks flawed and baseless.  Hopefully the same wave of public rationalism soon washes across UCI, and cooler minds will prevail.  It is yet to be seen.
 
+***
+
 | <img src="images/flag.jpg" style="width:450"/> |
 | :----:|
 |The author.|

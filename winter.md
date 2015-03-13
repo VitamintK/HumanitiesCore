@@ -171,7 +171,7 @@ However, the American Civil War, for the first time, was a war that took place w
 
 However, when the war continued, different representations of the war soon appeared.  Most notably, photographs of the battlefields came through.  Cameras at the time required static scenes for long periods of exposure, so battlefields after the fighting had finished were the only possible subjects of photography.  
 
-| <img src="images/soldier.jpg" style: "width: 400px"/> |
+| <img src="images/soldier.jpg" style="width: 400px"/> |
 | :-----:|
 |*Petersburg, Va., April 1865 source: Wikimedia Commons*|
 
